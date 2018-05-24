@@ -1,0 +1,14 @@
+{
+  "name": "passport-cast",
+  "version": "1.0.0",
+  "description": "Passport authentication strategy for Cast Group of Companies oAuth systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elizabeth Murray",
+  "license": "ISC",
+  "dependencies": {
+    "passport-strategy": "^1.0.0"
+  }
+}
